@@ -1,0 +1,1 @@
+UVICORN MAIN:APP --RELOAD --host 0.0.0.0 --port $PORT  
